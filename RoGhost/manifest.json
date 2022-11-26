@@ -1,0 +1,18 @@
+{
+  "description": "Disappear off the face of the earth!",
+  "manifest_version": 2,
+  "name": "RoGhost",
+  "version": "6.9",
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": [
+    "webRequest",
+    "<all_urls>",
+    "webRequestBlocking"
+  ],
+
+  "background": {
+    "scripts": ["listener.js"]
+  }
+}
