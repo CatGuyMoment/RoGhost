@@ -11,4 +11,4 @@ This is only a proof of concept and not a finished project, so feel free to insp
 
 https://dev.to/ben/how-to-install-chrome-extensions-manually-from-github-1612
 
-
+For the extension to take effect, close and reopen all roblox-related tabs.
