@@ -7,6 +7,12 @@ RoGhost is a chrome extension that lets you appear offline on your browser.
 
 This is only a proof of concept and not a finished project, so feel free to inspect and "borrow" any code on this repository.
 
+## How does it work?
+
+It simply blocks the presence api requests, nothing too complicated.
+
+
+
 ## Installation Guide:
 
 https://dev.to/ben/how-to-install-chrome-extensions-manually-from-github-1612
