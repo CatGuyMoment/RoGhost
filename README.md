@@ -9,7 +9,7 @@ This is only a proof of concept and not a finished project, so feel free to insp
 
 ## How does it work?
 
-It simply blocks the presence api requests, nothing too complicated.
+It blocks presence api requests sent by the client.
 
 
 
